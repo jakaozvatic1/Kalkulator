@@ -23,3 +23,5 @@ Odpri datoteko `index.html` v spletnem brskalniku. Dodatna namestitev ni potrebn
 - `.gitignore` â€“ datoteke, ki jih Git ignorira.
 Test spremembe za ukaz git diff.
 Spremembe sem preizkusil v razvojni veji.
+
+Opis: Glavna razlièica projekta.
