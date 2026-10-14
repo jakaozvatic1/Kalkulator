@@ -27,4 +27,4 @@ Spremembe sem preizkusil v razvojni veji.
 Opis: Glavna razli ica projekta.
 =======
 Opis: Razvojna različica projekta.
-
+Sprememba za preizkus pull requesta.
