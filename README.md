@@ -28,3 +28,5 @@ Opis: Glavna razli ica projekta.
 =======
 Opis: Razvojna različica projekta.
 
+
+Preizkus cherry-pick.
