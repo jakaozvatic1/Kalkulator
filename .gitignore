@@ -1,0 +1,13 @@
+# Sistemske datoteke
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Nastavitve urejevalnikov
+.vscode/
+.idea/
+
+# Dnevniki in skrivnosti
+*.log
+.env
+.env.*

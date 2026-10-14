@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Preprost kalkulator</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <main class="kalkulator">
+    <h1>Kalkulator</h1>
+    <p>Vnesi dve števili in izberi računsko operacijo.</p>
+
+    <label for="stevilo1">Prvo število</label>
+    <input id="stevilo1" type="number" step="any" placeholder="Npr. 12">
+
+    <label for="operacija">Operacija</label>
+    <select id="operacija">
+      <option value="+">Seštevanje (+)</option>
+      <option value="-">Odštevanje (−)</option>
+      <option value="*">Množenje (×)</option>
+      <option value="/">Deljenje (÷)</option>
+    </select>
+
+    <label for="stevilo2">Drugo število</label>
+    <input id="stevilo2" type="number" step="any" placeholder="Npr. 4">
+
+    <button id="izracunaj">Izračunaj</button>
+    <p id="rezultat" aria-live="polite">Rezultat se bo prikazal tukaj.</p>
+  </main>
+</body>
+</html>
