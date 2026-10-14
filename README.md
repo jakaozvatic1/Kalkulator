@@ -24,4 +24,7 @@ Odpri datoteko `index.html` v spletnem brskalniku. Dodatna namestitev ni potrebn
 Test spremembe za ukaz git diff.
 Spremembe sem preizkusil v razvojni veji.
 
-Opis: Glavna razlièica projekta.
+Opis: Glavna razli ica projekta.
+=======
+Opis: Razvojna razliÄica projekta.
+
