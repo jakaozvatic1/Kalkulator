@@ -21,3 +21,5 @@ Odpri datoteko `index.html` v spletnem brskalniku. Dodatna namestitev ni potrebn
 - `style.css` – oblikovanje;
 - `script.js` – računska logika;
 - `.gitignore` – datoteke, ki jih Git ignorira.
+Test spremembe za ukaz git diff.
+Spremembe sem preizkusil v razvojni veji.
