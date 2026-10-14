@@ -30,3 +30,5 @@ Opis: Razvojna različica projekta.
 
 
 Preizkus cherry-pick.
+
+Preizkus cherry-pick.
